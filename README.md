@@ -1,5 +1,6 @@
 Documentation of task-manager web application
 Installation Instructions for a Task Manager Web application that uses the MERN Stack and Next.js.
+
 Step 1: Clone the Repository
 1. Access the GitHub link provided in the `.txt` file.
 2. Using Git or GitHub Desktop, clone the repository to your local machine. Run the following command in the terminal or command prompt:
